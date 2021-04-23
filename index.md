@@ -10,3 +10,6 @@ Et le code source : [ici](https://github.com/Tackode/)
 ## Solutions pour suivre différemment l'évolution de la pandémie 
 
 * Se baser sur les [données BlaBlaCar](https://support.blablacar.com/hc/en-gb/categories/360002585239-Developer-BlaBlaCar-API) pour connaitre l’intensité et le sens de circulation des échanges commerciaux, des déplacements pro et touristiques, des flux, des interactions
+
+* Utiliser les [données Coviprev](https://www.santepubliquefrance.fr/etudes-et-enquetes/coviprev-une-enquete-pour-suivre-l-evolution-des-comportements-et-de-la-sante-mentale-pendant-l-epidemie-de-covid-19#block-242829) pour expliquer/prévoir une dynamique épidémique.
+
