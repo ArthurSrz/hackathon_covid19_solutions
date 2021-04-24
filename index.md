@@ -1,6 +1,6 @@
 ### Solutions pour fluidifier la campagne de vaccination
 
-*[To Expected To Go
+* [To Expected To Go
 ](https://www.figma.com/proto/mAOannscVEo5hriBfD8qZB/RevKit-Design-System-UI-Kit-(Community)-(Copy)?node-id=118%3A6600&scaling=min-zoom&page-id=0%3A1), une application pour Mettre en relation les différents acteurs du circuit de livraison et rendre transparent les échanges de vaccins pour fluidifier la vaccination.
 
 * [Vaccino Quizz](https://vaccino-quizz.exo-dev.fr/) un quizz dans le but d’éduquer la population sur le fonctionnement, les risques et l’utilité des vaccins.
@@ -28,6 +28,7 @@ Et le code source : [ici](https://github.com/Tackode/)
 
 ## Solutions pour suivre différemment l'évolution de la pandémie 
 
+* [Pycoa](http://pycoa.fr/), un toolkit pour démocratiser l'analyse des données COVID
 
 * [Données Médic'AM de consommation des médicaments en 2020 ](https://www.ameli.fr/l-assurance-maladie/statistiques-et-publications/donnees-statistiques/medicament/medicaments-pharmacies-de-ville-par-classe-atc/medic-am-labellise-2020.php)
 
