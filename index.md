@@ -17,6 +17,8 @@ Et le code source : [ici](https://github.com/Tackode/)
 
 ## Solutions pour suivre différemment l'évolution de la pandémie 
 
+* [Données et notebook de suivi](https://github.com/ArthurSrz/hackathon_covid19_solutions/tree/main/Solutions-CoviPrev) de la prévalence de troubles psychochologiques dues à la crise COVID dans les régions
+
 * Tableau de bord de pilotage de l'épidémie à l'échelle des aires métropolitaines : [application](https://reinaldodos.shinyapps.io/dashboard/) [code source](https://github.com/Reinaldodos/Hackathon_AAV20)
 
 
