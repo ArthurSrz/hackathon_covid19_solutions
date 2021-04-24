@@ -28,6 +28,9 @@ Et le code source : [ici](https://github.com/Tackode/)
 
 ## Solutions pour suivre différemment l'évolution de la pandémie 
 
+* [Climat Covid](climat-covid.herokuapp.com) un dashboard pour mieux comprendre et mieux suivre l’impact des conditions climatiques sur la transmissibilité du virus
+
+
 * [Pycoa](http://pycoa.fr/), un toolkit pour démocratiser l'analyse des données COVID
 
 * [Données Médic'AM de consommation des médicaments en 2020 ](https://www.ameli.fr/l-assurance-maladie/statistiques-et-publications/donnees-statistiques/medicament/medicaments-pharmacies-de-ville-par-classe-atc/medic-am-labellise-2020.php)
