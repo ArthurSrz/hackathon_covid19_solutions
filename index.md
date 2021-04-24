@@ -1,5 +1,7 @@
 ### Solutions pour fluidifier la campagne de vaccination
 
+* [Vaccino Quizz](https://vaccino-quizz.exo-dev.fr/) un quizz dans le but d’éduquer la population sur le fonctionnement, les risques et l’utilité des vaccins.
+
 * [Magicien Dose](https://github.com/rigelk/magiciendose), une appli web avec authentification pour partager l’information, prendre les décisions plus rapidement sur la répartition des vaccins
 
 * [Covidliste](https://www.covidliste.com/) : application de mise en relation en temps réel entre les établissements et professionnels de santé qui disposent de doses de vaccins non utilisées, et des volontaires non vaccinés.
