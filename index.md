@@ -6,6 +6,8 @@
 
 ### Solutions pour mieux accompagner les victimes de la COVID à court et long terme
 
+*[Une API pour interroger le fichier des personnes décédées de l’INSEE](https://api.memorial-covid.org/docs) complété par [memorial-covid](https://memorial-covid.org/).
+
 * [Contact tracing](https://www.ameli.fr/rhone/assure/covid-19/tester-alerter-proteger-comprendre-la-strategie-pour-stopper-lepidemie/contact-tracing-arreter-les-chaines-de-transmission), le dispositif de l'Assurance Maladie pour pour arrêter plus vite les chaînes de transmission du virus
 
 * [Mon Suivi Covid](https://monsuivicovid.com/), une application de suivi des symtpômes du COVID-19
