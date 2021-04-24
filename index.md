@@ -1,8 +1,14 @@
-## Solutions pour mieux accompagner les victimes de la COVID à court et long terme
+### Solutions pour fluidifier la campagne de vaccination
+
+* [Covidliste](https://www.covidliste.com/) : application de mise en relation en temps réel entre les établissements et professionnels de santé qui disposent de doses de vaccins non utilisées, et des volontaires non vaccinés.
+
+* [Vite Ma Dose](https://vitemadose.covidtracker.fr/) : application qui permet de trouver un rendez-vous de vaccination rapidement dans son département
+
+### Solutions pour mieux accompagner les victimes de la COVID à court et long terme
 
 * [Mon Suivi Covid](https://monsuivicovid.com/), une application de suivi des symtpômes du COVID-19
 
-## Solutions pour mesurer les risques et favoriser les comportements vertueux
+### Solutions pour mesurer les risques et favoriser les comportements vertueux
 
 * [Tackode](https://tackode.com/), une application de tracking de vos déplacements dans des lieux fréquentés. Cette application vous informe lorsque vous avez été en contact avec une personne porteuse du virus. 
 Et le code source : [ici](https://github.com/Tackode/)
