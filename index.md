@@ -23,6 +23,9 @@
 
 ### Solutions pour mesurer les risques et favoriser les comportements vertueux
 
+* [Promesse Culture](https://www.figma.com/proto/eMxAeX9uy3j5INaVb9aoo5/Hackathon-covid?node-id=13%3A2&scaling=scale-down&page-id=0%3A1
+) : une plateforme web gratuite permettant de découvrir les lieux culturels ouverts autour de soi, d’éviter la formation de files d’attente à l’entrée de chacun d’entre eux et de suggérer au visiteur des lieux alternatifs moins fréquentés, grâce au calcul de la fréquentation instantanée.
+
 * [ZeroHour (file d’attente virtuelle)
 ](https://www.figma.com/file/kWnpjWUQ6Xjyuc0IRiqkcF/Untitled?node-id=47%3A16) : Uue application mobile qui permet aux utilisateurs/clients de faire la queue virtuellement sans rester physiquement sur place devant le lieu public, évitant ainsi des attroupements risqués.
 
