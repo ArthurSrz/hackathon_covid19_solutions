@@ -17,6 +17,11 @@ Et le code source : [ici](https://github.com/Tackode/)
 
 ## Solutions pour suivre différemment l'évolution de la pandémie 
 
+
+* [Données Médic'AM de consommation des médicaments en 2020 ](https://www.ameli.fr/l-assurance-maladie/statistiques-et-publications/donnees-statistiques/medicament/medicaments-pharmacies-de-ville-par-classe-atc/medic-am-labellise-2020.php)
+
+* [Etude de l'usage des médicaments en ville durant l'épidémie de Covid-19](https://www.ameli.fr/l-assurance-maladie/statistiques-et-publications/etudes-en-sante-publique/etudes-pharmaco-epidemiologiques/medicaments-usage-pendant-l-epidemie-de-covid-19/point-de-situation-apres-3-semaines-2e-confinement.php)
+
 * [Données et notebook de suivi](https://github.com/ArthurSrz/hackathon_covid19_solutions/tree/main/Solutions-CoviPrev) de la prévalence de troubles psychochologiques dues à la crise COVID dans les régions
 
 * Tableau de bord de pilotage de l'épidémie à l'échelle des aires métropolitaines : [application](https://reinaldodos.shinyapps.io/dashboard/) [code source](https://github.com/Reinaldodos/Hackathon_AAV20)
