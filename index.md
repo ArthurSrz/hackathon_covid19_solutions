@@ -23,6 +23,9 @@
 
 ### Solutions pour mesurer les risques et favoriser les comportements vertueux
 
+* [ZeroHour (file d’attente virtuelle)
+](https://www.figma.com/file/kWnpjWUQ6Xjyuc0IRiqkcF/Untitled?node-id=47%3A16) : Uue application mobile qui permet aux utilisateurs/clients de faire la queue virtuellement sans rester physiquement sur place devant le lieu public, évitant ainsi des attroupements risqués.
+
 * [Tackode](https://tackode.com/), une application de tracking de vos déplacements dans des lieux fréquentés. Cette application vous informe lorsque vous avez été en contact avec une personne porteuse du virus. 
 Et le code source : [ici](https://github.com/Tackode/)
 
