@@ -1,5 +1,7 @@
 ### Solutions pour fluidifier la campagne de vaccination
 
+* [Magicien Dose](https://github.com/rigelk/magiciendose), une appli web avec authentification pour partager l’information, prendre les décisions plus rapidement sur la répartition des vaccins
+
 * [Covidliste](https://www.covidliste.com/) : application de mise en relation en temps réel entre les établissements et professionnels de santé qui disposent de doses de vaccins non utilisées, et des volontaires non vaccinés.
 
 * [Vite Ma Dose](https://vitemadose.covidtracker.fr/) : application qui permet de trouver un rendez-vous de vaccination rapidement dans son département
