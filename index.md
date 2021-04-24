@@ -6,6 +6,8 @@
 
 ### Solutions pour mieux accompagner les victimes de la COVID à court et long terme
 
+* [Mémorial du COVID-19](https://observablehq.com/@cquest/zoom-canvas-rescaled) : un nuage de points en hommage des victimes du COVID-19
+
 * [Une API pour interroger le fichier des personnes décédées de l’INSEE](https://api.memorial-covid.org/docs) complété par [memorial-covid](https://memorial-covid.org/). Ces données alimentent le mémorial du COVID.
 
 * [Contact tracing](https://www.ameli.fr/rhone/assure/covid-19/tester-alerter-proteger-comprendre-la-strategie-pour-stopper-lepidemie/contact-tracing-arreter-les-chaines-de-transmission), le dispositif de l'Assurance Maladie pour pour arrêter plus vite les chaînes de transmission du virus
