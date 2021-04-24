@@ -9,7 +9,7 @@ Et le code source : [ici](https://github.com/Tackode/)
 
 ## Solutions pour suivre différemment l'évolution de la pandémie 
 
-* Créer des tableaux de bord de pilotage de l'épidémie à l'échelle des aires métropolitaines : [code source](https://github.com/Reinaldodos/Hackathon_AAV20)
+* Tableau de bord de pilotage de l'épidémie à l'échelle des aires métropolitaines : [application](https://reinaldodos.shinyapps.io/dashboard/) [code source](https://github.com/Reinaldodos/Hackathon_AAV20)
 
 
 * Se baser sur les [données BlaBlaCar](https://support.blablacar.com/hc/en-gb/categories/360002585239-Developer-BlaBlaCar-API) pour connaitre l’intensité et le sens de circulation des échanges commerciaux, des déplacements pro et touristiques, des flux, des interactions
